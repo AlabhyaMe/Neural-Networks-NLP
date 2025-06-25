@@ -1,7 +1,7 @@
 # News Bias Detection Using Word2Vec and Logistic Regression
 
 ## 📄 Project Overview  
-This project explores the use of **Word2Vec** embeddings and a **logistic regression** model to evaluate how effectively a neural network-based text representation can distinguish the political tendencies of different news agencies based on news headlines.
+This project explores the use of **Word2Vec** embeddings model to evaluate how effectively a neural network-based text representation can distinguish the political tendencies of different news agencies based on news headlines.
 
 ## 🗂️ Data Collection  
 The dataset was **manually collected** and curated by me. I selected news headlines covering the **same events**, reported by four different news agencies — **two from each side of the political spectrum**. This comparative dataset consists of **10 news events**, providing a controlled setup to observe how language framing differs across outlets.
