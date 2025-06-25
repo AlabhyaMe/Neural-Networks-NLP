@@ -20,10 +20,3 @@ The goal is to assess:
 This project demonstrates the potential of word embedding techniques for bias detection in news reporting and provides insights into how headline framing may reflect political tendencies across media outlets.
 
 ---
-
-## 🚀 Future Improvements  
-- Expand dataset to include more news agencies and events  
-- Test alternative models such as SVM or deep learning classifiers  
-- Explore contextual embeddings using transformer-based models (e.g., BERT)  
-
-## 📁 Project Structure  
