@@ -1,0 +1,10 @@
+Topic,Agency1,Agency2,Similarity,Rank,Agency_Group
+1,NYT,CNN,0.7776579,1.0,left
+2,NYT,CNN,0.6573651,5.0,left
+3,NYT,CNN,0.7999552,2.0,left
+4,NYT,CNN,0.5600192,5.0,left
+5,NYT,CNN,0.8609108,1.0,left
+6,NYT,CNN,0.7271402,3.0,left
+7,NYT,CNN,0.82315785,1.0,left
+8,NYT,CNN,0.61440074,4.0,left
+9,CNN,NYT,0.66584575,5.0,left

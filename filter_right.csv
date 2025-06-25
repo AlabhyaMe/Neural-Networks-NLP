@@ -1,0 +1,10 @@
+Topic,Agency1,Agency2,Similarity,Rank,Agency_Group
+1,Fox,NewsMax,0.721333,3.0,right
+2,Fox,NewsMax,0.8807334,1.0,right
+3,NewsMax,Fox,0.71416277,4.0,right
+4,NewsMax,Fox,0.5395577,6.0,right
+5,Fox,NewsMax,0.44174114,5.0,right
+6,NewsMax,Fox,0.69191736,5.0,right
+7,Fox,NewsMax,0.7869368,5.0,right
+8,Fox,NewsMax,0.63436395,2.0,right
+9,NewsMax,Fox,0.7067737,3.0,right
